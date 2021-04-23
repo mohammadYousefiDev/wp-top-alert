@@ -1,0 +1,16 @@
+.wpa_in_container>span
+{
+    float: right;
+    text-align: right;
+}
+
+.wpa_container_box
+{
+    float: left;
+    text-align: right;
+}
+
+.wpa_link_view
+{
+    float: right;
+}

@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ .wpa_alert_link_txt::placeholder
+{
+    color: #ddd;
+}

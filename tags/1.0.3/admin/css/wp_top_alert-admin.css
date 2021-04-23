@@ -1,0 +1,28 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ .wpa_alert_link_txt::placeholder
+{
+    color: #ddd;
+}
+
+#all, #home, #singular, #archive
+{
+    margin-right: 4px;
+    position: relative;
+    top: -1px;
+}
+
+.wpa_alert_location_parent label
+{
+    margin-bottom: 7px;
+    display: inline-block;
+}
+
+.radio_loc input[type=radio]
+{
+    position: relative;
+    top: 2px;
+}
